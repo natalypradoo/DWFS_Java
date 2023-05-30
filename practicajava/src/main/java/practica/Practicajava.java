@@ -11,6 +11,6 @@ package practica;
 public class Practicajava {
 
     public static void main(String[] args) {
-        System.out.println("Hello World!");
+        System.out.println("HOLA MUNDO!");
     }
 }
